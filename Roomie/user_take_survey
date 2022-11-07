@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Roomie Survey</title>
+</head>
+<body>
+<h1 style="text-align:center;">Roomie Survey</h2>
+<p style="text-align:center;">
+1.What kind of relationship are you looking for in a roommate?
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+2.I use my personal space for...
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+3.When dealing with conflicts...
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+4. I consider myself...
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+5.Are you a smoker?
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+6.I would prefer a roommate that...
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+7.How would others describe you? 
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+8.I plan on going home...
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+9.I like to have music or the TV on in my room...
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+10.I like living in a...
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+11.I prefer a room that is...
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+12.When dealing with conflicts...
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<a href="">  
+<button style="text-align:center;font-size:20px;">(Response)</button>  
+</a>
+<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+<h1 align="center">  
+<button style="text-align:center;font-size:20px;">Submit Responses</button>  
+</a>
+</h1>
+</p>
+<div class="container">
+		 <div class="content">
+				<a href="logout.php" class="btn">Logout</a>
+		 </div>
+		 </div>
+</body>
+</head>
+</html>

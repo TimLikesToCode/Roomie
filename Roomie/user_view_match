@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Matches</title>
+	<link rel="stylesheet"  href="css/style.css">
+</head>
+
+<body>
+	<div class="wrapper">
+		<h1>You matched with, Jake!</h1>
+		<img class="img-eye" src="img/friends.png" alt="friends">
+		<p>Contact him here, jbk4971@sru.edu </p>
+		<div class="container">
+		 <div class="content">
+				<a href="logout.php" class="btn">Logout</a>
+		 </div>
+		</div>
+	</div>
+
+</body>
+</html>
